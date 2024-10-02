@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="hosting.iem.thm.de" id="f2cdb7bf-e77e-4c90-8852-2e41869b8712" port="2222" nameFormat="DESCRIPTIVE" username="ugzl49" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

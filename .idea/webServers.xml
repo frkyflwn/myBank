@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dffeeffb-ef07-4291-99c4-a5fc1baf1405" name="thm server" url="http://hosting.iem.thm.de">
+        <fileTransfer rootFolder="//usr3/ugzl49" accessType="SFTP" host="hosting.iem.thm.de" port="2222" sshConfigId="f2cdb7bf-e77e-4c90-8852-2e41869b8712" sshConfig="ugzl49@hosting.iem.thm.de:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,168 @@
+body {
+    background-color: #dfe0e5;
+}
+
+a {
+    color: #2d2d2d;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#step1 {
+    display: block;
+}
+
+#step2 {
+    display: none;
+}
+
+#text{
+
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 50%;
+}
+
+#button{
+
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: grey;
+    border: none;
+}
+
+button, .button, #button {
+    cursor: pointer;
+}
+
+#box{
+
+    background-color: #dfe0e5;
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
+#navheadline {
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+button {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 8px 20px;
+    margin-top: 20px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    margin-right: 5px;
+}
+
+.logo h1 {
+    margin: 0;
+}
+
+.logout {
+    display: flex;
+    align-items: center;
+}
+
+.logout a {
+    margin-left: 10px;
+}
+
+#statements {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#statements table {
+    width: 100%;
+    text-align: center;
+}
+
+#content {
+    margin-top: 50px;
+}
+
+.checkmark {
+    height: 200px;
+}
+
+.accountdata {
+    cursor: pointer;
+}
+
+.usericon {
+    height: 30px;
+    padding-right: 5px;
+}
+
+#accountForm, #accountForm2 {
+    display: none;
+}
+
+.account {
+    margin-bottom: 20px;
+}
+
+.no-arrows:-webkit-inner-spin-button,
+.no-arrows:-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#statements table {
+    border-collapse: collapse;
+}
+
+#statements tr {
+    height: 30px;
+    border-bottom: solid black 1px;
+}
+
+.acceptuserform {
+    width: 100%;
+}
+
+.acceptuserbutton {
+    margin: 10px 0px;
+}
+
+#adminbox {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
